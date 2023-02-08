@@ -1,0 +1,27 @@
+body{
+	background-image: url("file:///C:/Users/Superbrandz%20Kaduna/Videos/New%20folder%20(2)/space%20exploration/ji.webp");
+	background-size: cover;
+	margin: 0;
+	text-align: center;
+	color: #82a5ca;
+	font-family: 'Orbitron', sans-serif;
+	font-weight: 800;
+
+}
+#main-logo {
+	width:100px;
+}
+.btn{
+	padding: 6px 12px;
+    background: white;
+    border: 1px solid #82a5ca;
+	font-weight: 800;
+    color: #82a5ca;
+}
+.exp {
+	border-bottom: 2px solid #82a5ca;
+}
+#hero {
+	
+	padding: 10px 8px 30px 8px;
+}
