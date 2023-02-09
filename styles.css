@@ -1,6 +1,5 @@
 body{
-	background-image: url("ji.webp");
-	background-size: cover;
+	
 	margin: 0;
 	text-align: center;
 	color: #82a5ca;
@@ -22,6 +21,7 @@ body{
 	border-bottom: 2px solid #82a5ca;
 }
 #hero {
-	
+	background-image: url("ji.webp");
+	background-size: cover;
 	padding: 10px 8px 30px 8px;
 }
